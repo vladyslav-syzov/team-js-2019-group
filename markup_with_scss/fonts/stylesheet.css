@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'open_sansregular';
+    src: url('opensans-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+	
+	font-family: 'open_sansbold';
+    src: url('opensans-bold-webfont.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+	
+	font-family: 'open_sanssemibold';
+    src: url('OpenSans-SemiBold.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+
