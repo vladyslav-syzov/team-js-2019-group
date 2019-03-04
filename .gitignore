@@ -1,2 +1,5 @@
 markup_with_scss/node_modules/
 markup_with_scss/.vscode/
+markup_with_scss/.vs/config/applicationhost.config
+markup_with_scss.DotSettings.user
+markup_with_scss/.vs/slnx.sqlite
