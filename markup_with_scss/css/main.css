@@ -875,10 +875,15 @@ p {
   margin-right: auto;
 }
 
-.icon{
-  min-width: 40px;
-  min-height: 40px;
-  display: inline-block;
-  background-color: #528b86;
-  border-radius: 5px;
+.icon {
+	min-width: 40px;
+	min-height: 40px;
+	display: inline-block;
+	background-color: #528b86;
+	-ms-border-radius: 5px;
+	border-radius: 5px;
+}
+
+.blog {
+	/*none*/
 }
