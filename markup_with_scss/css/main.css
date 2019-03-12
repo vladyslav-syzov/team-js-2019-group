@@ -613,6 +613,19 @@ p {
   /*margin-right: -15px;
   margin-left: -15px;*/
   background-color: #ececec;
+
+}
+
+.services a {
+	font-family: 'open_sanssemibold';
+  font-size: 14px;
+  text-transform: uppercase;
+  height: 50px;
+  background-color: #e8645a;
+  padding: 17px 44px;
+  border-radius: 4px;
+  line-height: 100px;
+  box-shadow: 0 4px 0 #e2534b;
 }
 
 .advantages{
@@ -630,6 +643,19 @@ p {
   flex-basis: 270px;
   background-color: #f8f8f8;
   align-self: stretch;
+}
+
+.benefit img{
+  color: #76c7c0;
+  transition: all .2s;
+}
+
+.benefit a{
+  background-color: #76caca;
+  padding: 19px 65px;
+  box-shadow: 0 4px 0 #62bdbd;
+  border-radius: 4px;
+  transform: translateY(50px);
 }
 
 .col_75{
@@ -685,7 +711,7 @@ p {
 .company_brief{
   display: block;
   height: 300px;
-
+  margin-top: 32px;
 }
 
 .footer_menu{
@@ -726,6 +752,24 @@ p {
 
 .item:last-child img{
   float: left;
+}
+
+.item:first-child img{
+  margin-bottom: 20px;
+}
+
+.item h4{
+  margin-bottom: 26px;
+}
+
+.blog{
+  display: block;
+  height: 70px;
+  margin-bottom: 20px;
+}
+
+.blog img{
+  margin-right: 18px;
 }
 
  .copyright{
